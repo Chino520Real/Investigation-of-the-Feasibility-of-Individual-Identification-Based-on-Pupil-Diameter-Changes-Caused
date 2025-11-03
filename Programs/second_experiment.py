@@ -34,7 +34,7 @@ screen = pygame.display.set_mode((screen_width_full - 100, screen_height_full - 
 pygame.mouse.set_visible(True)
 
 # Path to the parent image directory
-imgDir = 'D:\\University\\manaba\\murao\\B4\\pupil_diameter\\Programs\\Images\\Experiment2\\ColorCombination'
+imgDir = 'Images\\Experiment2\\ColorCombination'
 
 # List of episode numbers to run
 episode_list = [1, 2, 3, 4]
